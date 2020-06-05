@@ -1,0 +1,10 @@
+Question 3
+
+run command: python MarkovChain.py Auth_dir prob_file result_file
+
+I use package nltk to tokenize. Use choice function to do weigthed random selection.
+
+In the result file the probability is given as list under each generated sequence. (First prob corresponds to first unigram, second second word given first word prob, third onwards trigram probability)
+
+For extra credit - File is MarkovChain_EC.py
+run as : python MarkovChain_EC.py Auth_dir1 Auth_dir2 prob_file1 prob_file2 result_file

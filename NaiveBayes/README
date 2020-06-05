@@ -1,0 +1,15 @@
+Question 2
+For NaiveBayes.py
+python3.5 NaiveBayes.py Train.csv Test.csv Model-file Result-file
+
+In the model file I first print the class probabilities. Then I print the conditional probabilities for each attribute like a table as follows:
+
+Attribute: Attribute_name
+
+	Class 0		Class 1
+a	P(a|class 0)	P(a|class 1)
+b	P(b|class 0)	P(b|class 1)
+.....
+...
+
+I use pandas to read the csv file.

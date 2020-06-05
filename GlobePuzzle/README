@@ -1,0 +1,13 @@
+run as: python Search.py <ALGO> <puzzle_file>
+
+I have done all the coding in single file.
+Sample output for AStar
+Solving puzzle:  Assign2Files/Puzzle2-2.mb  for algo  AStar
+States expanded =  11
+Max queue length =  46
+Path length =  9
+Sequence of steps :
+['long90-270_dec', 'long90-270_dec', 'equ_inc', 'equ_inc', 'equ_inc', 'long90-270_dec', 'equ_inc', 'long90-270_inc', 'long0-180_dec']
+Solution found
+Elapsed time =  0.01924586296081543
+
